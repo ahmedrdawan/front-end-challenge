@@ -17,7 +17,7 @@ body {
 
 .card {
     width: 360px;
-    height: 490px;
+    height: 465px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -65,17 +65,20 @@ svg {
 
 
 h5 {
+    margin-top: -5px;
     font-size: 10px;
     color: var(--main-color-pragraph);
 }
 
 h1 {
+    margin-top: -8px;
     font-size: 23px;
 }
 
 p {
     color: hsl(0, 0%, 50%);
     font-size: 16px;
+    margin-top: -10px;
 }
 
 .two {
